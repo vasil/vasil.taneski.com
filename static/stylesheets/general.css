@@ -1,0 +1,11 @@
+@font-face{font-family:'Neucha';font-style:normal;font-weight:normal;src:local('Neucha'),url('/fonts/Neucha.ttf')format('truetype')}
+*{margin:0}
+html{font-family:'Neucha',sans-serif;height:100%;overflow-y:scroll;-webkit-font-smoothing:antialiased}
+body{max-height:100%;height:auto !important;margin:0 auto -109px}
+h1{font-weight:400;font-size:1.4em;margin:1em 0 0 0.5em;color:maroon}
+h2{font-weight:400;font-size:2em;margin:0 0 0 0.4em}
+aside{height:222px;display:block;margin-top:9%}
+a,a:visited,a:active{color:maroon}
+#me{margin:0 0 -210px 0;width:54px;height:114px}
+#speaking{background:url(/images/speaking.png) no-repeat;margin-left:50px;padding-top:20px;width:181px;height:109px;font-size:1.3em;display:none;text-align:center}
+#thinking{background:url(/images/thinking.png) no-repeat;margin-left:40px;margin-top:-20px;padding-top:45px;width:153px;height:140px;font-size:1.3em;display:none;text-align:center}

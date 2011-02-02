@@ -1,0 +1,3 @@
+
+Someone {% if referrer %}coming from {{ referrer }} {% endif %}is {{ action }} right now.
+See who is he: http://whatismyipaddress.com/ip/{{ visitor_ip }}
